@@ -1,5 +1,14 @@
-### Hi there 👋
+# Greetings everyone! 👋
+Meet Ömer, a fervent data enthusiast dedicated to transforming raw information into effective and valuable insights.
 
+📚 I’m currently learning MySQL, Python and Machine Learning.
+
+Ömer welcomes new challenges and collaboration opportunities, as
+he continues to expand his knowledge and skills in data analytics.
+
+📫 How to reach me: My [LinkedIn Profile](https://www.linkedin.com/in/omer-yurt/)
+   
+### Feel free to contact. Your insights drive the evolution!
 <!--
 **omeryurtt/omeryurtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
