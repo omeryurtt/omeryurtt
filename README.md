@@ -1,7 +1,7 @@
 # Greetings everyone! 👋
 Meet Ömer, a fervent data enthusiast dedicated to transforming raw information into effective and valuable insights.
 
-📚 I’m currently learning MySQL, Python and Machine Learning.
+📚 I’m currently working on MySQL, Python and Machine Learning.
 
 Ömer welcomes new challenges and collaboration opportunities, as
 he continues to expand his knowledge and skills in data analytics.
