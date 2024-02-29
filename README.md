@@ -8,6 +8,11 @@ Meet Ömer, a fervent data enthusiast dedicated to transforming raw information 
 * 🤝  I'm open to collaborating on projects in order to provide solid value to them.
 * 📢  Feel free to contact. Your insights drive the evolution!
 
+### 🖥️ See my portfolio at [my-Portfolio](http://github.com/omeryurtt/Portfolio)
+
+
+
+
 ### Skills
 
 
@@ -19,9 +24,3 @@ Meet Ömer, a fervent data enthusiast dedicated to transforming raw information 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/omeryurtt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/omeryurt__/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/omer-yurt/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/omeryurtt"><img src="https://github-readme-stats.vercel.app/api?username=omeryurtt&show_icons=true&hide=&title_color=ef4444&text_color=6366f1&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="omeryurtt's GitHub stats" /></a>
