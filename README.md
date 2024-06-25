@@ -4,7 +4,6 @@ Hi 👋 My name is Ömer
 Meet Ömer, a fervent data enthusiast dedicated to transforming raw information into effective and valuable insights.
 
 * 🌍  I'm based in Spain
-* 🧠  I'm learning Machine Learning.
 * 🤝  I'm open to collaborating on projects in order to provide solid value to them.
 * 📢  Feel free to contact. Your insights drive the evolution!
 
